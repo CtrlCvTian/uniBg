@@ -1,0 +1,24 @@
+{
+  "name": "uniBg",
+  "version": "1.0.0",
+  "description": "学习 uni-app即时聊天 后端部分 koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CtrlCvTian/uniBg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CtrlCvTian/uniBg/issues"
+  },
+  "homepage": "https://github.com/CtrlCvTian/uniBg#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8"
+  }
+}
